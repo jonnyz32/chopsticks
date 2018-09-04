@@ -1,2 +1,2 @@
 # chopsticks
-A chopstick game with AI
+A chopsticks game with AI
