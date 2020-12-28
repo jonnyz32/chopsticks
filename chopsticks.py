@@ -294,7 +294,8 @@ class game:
         if player == 'x':
             return alpha
         else:
-            return beta   
+            return beta
+   
         
         
             
